@@ -1,0 +1,8 @@
+include ':app'
+include ':lib_base'
+include ':module-wss'
+include ':module-run'
+include ':module-setting'
+include ':module-home'
+include ':module-maintain'
+include ':module-look'
